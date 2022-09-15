@@ -1,5 +1,5 @@
 # Sorting-Visualization
-I built this application in order to get much more accommodated with Python and Pygame and to have a much better understanding of the nature of various sorting algorithms through visualization.
+I built this application in order to get much more accommodated with Python and tkinter and to have a much better understanding of the nature of various sorting algorithms through visualization.
 
 ## The Project
 The project is implemented in Python using tkinter. The program allows the user to choose from a selection of sorting algorithms, select the number of elements to be sorted and also input the speed at which the visualization process will execute.
